@@ -2,7 +2,7 @@
   "name": "htactive-react-todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vanthudkr.github.io/htactive-react-todolist/",
+  "homepage": "https://vanthudkr.github.io/htactive-react-todolist-router/",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
